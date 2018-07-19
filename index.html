@@ -1,0 +1,77 @@
+<!-- index/home/gene analysis page
+
+     necesary html code, title, header and link to css styling file
+-->
+<!doctype html>
+<html>
+    <head>
+      <meta charset="utf-8"> 
+      <title>RUDO</title>
+      <link type="text/css" rel="stylesheet" href="css/rgr3.css"> 
+    </head>
+
+    <body>
+      <header>
+        <h1>RUDO</h1>
+	<h2>Relative Unique DNA Output</h2> 
+      </header>
+
+<!-- Navigation toolbar
+-->
+      <nav>
+        <ul>
+	 <li><a href="index.html">HOME</a></li>
+	</ul>	
+       </nav>
+
+<!--Insert summary list table - must come immediately under nav toolbar as an aside
+-->
+       <aside>
+	<h4><span class="red">Genome Summary List</span></h4>
+          <iframe src ="http://student.cryst.bbk.ac.uk/cgi-bin/cgiwrap/sr002/sumlist_rudo.py"></iframe>
+       </aside>
+
+<!-- Main form - Radio buttons to search on - link to cgi script           
+-->
+      <main>
+	<form
+	action="http://student.cryst.bbk.ac.uk/cgi-bin/cgiwrap/sr002/form.py" 
+	method="post">
+	    <p><b>Search on:</b><br />
+	        <input name="search_type" value="bioID" type="radio" checked="checked" />Bioproject ID<br />
+		
+	        
+	    </p>
+
+<!-- input ref and qury values
+-->	      
+	
+	   <fieldset>
+	        
+	    <p><b>Reference: </b><input type="number" name="reference" placeholder="e.g.30681" required></p>
+	    <p><b>Query 1: </b><input type="number" name="query1" placeholder="e.g.12345" required></p>
+	    <p><b>Query 2: </b><input type="number" name="query2" placeholder="e.g.56789"></p>
+
+	   </fieldset>
+ 
+<!-- Form submit/clear button
+-->
+	    <p>
+	        <input type="submit" value="Submit data" />&nbsp;&nbsp;&nbsp;&nbsp;
+		<input type="reset" value="Clear form" />
+	    </p>
+
+	</form>
+       </main>
+
+<!-- create footer 
+-->
+       <footer>
+<!-- CSS level 3 Validated
+-->
+<p>        <a href="http://jigsaw.w3.org/css-validator/check/referer">       
+           <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" /> </a></p>
+       </footer>
+    </body>
+</html>
+
