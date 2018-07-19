@@ -1,0 +1,190 @@
+GPID	Contigs	Name						Status	
+		
+30681	C	Escherichia coli 'BL21-Gold(DE3)pLysS AG'	complete			
+40647	C	Escherichia coli 042		      		complete	
+16235	C	Escherichia coli 536				complete	
+33413	C	Escherichia coli 55989				complete	
+38725	C	Escherichia coli ABU 83972			complete	
+16718	C	Escherichia coli APEC O1			complete	
+18083	C	Escherichia coli ATCC 8739			complete	
+18281	C	Escherichia coli B str. REL606			complete	
+20713	C	Escherichia coli BL21(DE3)			complete	
+28965	C	Escherichia coli BL21(DE3)			complete	
+33775	C	Escherichia coli BW2952				complete	
+313	C	Escherichia coli CFT073				complete	
+30031	C	Escherichia coli DH1				complete	
+13960	C	Escherichia coli E24377A			complete	
+33409	C	Escherichia coli ED1a				complete	
+42749	C	Escherichia coli ETEC H10407			complete	
+13959	C	Escherichia coli HS   				complete	
+33373	C	Escherichia coli IAI1				complete	
+33411	C	Escherichia coli IAI39				complete	
+43693	C	Escherichia coli IHE3034			complete	
+33875	C	Escherichia coli KO11				complete	
+32511	C	Escherichia coli O103:H2 str. 12009		complete	
+32513	C	Escherichia coli O111:H- str. 11128		complete	
+32571	C	Escherichia coli O127:H6 str. E2348/69		complete	
+27739	C	Escherichia coli O157:H7 str. EC4115		complete	
+259	C	Escherichia coli O157:H7 str. EDL933		complete	
+226	C	Escherichia coli O157:H7 str. Sakai		complete	
+30045	C	Escherichia coli O157:H7 str. TW14359		complete	
+32509	C	Escherichia coli O26:H11 str. 11368		complete	
+42729	C	Escherichia coli O55:H7 str. CB9615		complete	
+41221	C	Escherichia coli O83:H1 str. NRG 857C		complete	
+33375	C	Escherichia coli S88	     	 		complete	
+18057	C	Escherichia coli SE11				complete	
+19053	C	Escherichia coli SE15				complete	
+19469	C	Escherichia coli SMS-3-5			complete	
+20079	C	Escherichia coli str. K-12 substr. DH10B	complete	
+225	C	Escherichia coli str. K-12 substr. MG1655	complete	
+16351	C	Escherichia coli str. K-12 substr. W3110	complete	
+50883	C	Escherichia coli UM146	   	   		complete	
+33415	C	Escherichia coli UMN026				complete	
+16259	C	Escherichia coli UTI89				complete	
+48011	C	Escherichia coli W				complete	
+15637	C	Shigella boydii CDC 3083-94			complete	
+13146	C	Shigella boydii Sb227				complete	
+13145	C	Shigella dysenteriae Sd197			complete	
+33639	C	Shigella flexneri 2002017			complete	
+408	C	Shigella flexneri 2a str. 2457T			complete	
+310	C	Shigella flexneri 2a str. 301			complete	
+16375	C	Shigella flexneri 5 str. 8401			complete	
+13151	C	Shigella sonnei Ss046	 			complete	
+15630	W	Escherichia coli				draft		
+51097	W	Escherichia coli 1.2264				draft		
+51085	W	Escherichia coli 1.2741				draft		
+16193	W	Escherichia coli 101-1				draft		
+40289	W	Escherichia coli 1180				draft		
+40291	W	Escherichia coli 1357				draft		
+40257	W	Escherichia coli 1827-70			draft		
+51123	W	Escherichia coli 2.3916				draft		
+51127	W	Escherichia coli 2.4168				draft		
+40275	W	Escherichia coli 2362-75			draft		
+51129	W	Escherichia coli 3.2303				draft		
+51131	W	Escherichia coli 3003				draft		
+40265	W	Escherichia coli 3431				draft			
+51109	W	Escherichia coli 4.0522				draft		
+51121	W	Escherichia coli 4.0967				draft		
+51115	W	Escherichia coli 5.0959				draft		
+15639	W	Escherichia coli 53638				draft		
+31467	W	Escherichia coli 83972				draft		
+51117	W	Escherichia coli 9.1649				draft		
+51137	W	Escherichia coli 900105 (10e)			draft		
+51095	W	Escherichia coli 95.0941			draft		
+51087	W	Escherichia coli 97.0246			draft		
+51091	W	Escherichia coli 97.0259			draft		
+51099	W	Escherichia coli 97.0264			draft		
+51103	W	Escherichia coli 99.0741			draft		
+38905	W	Escherichia coli B088				draft		
+38915	W	Escherichia coli B185				draft		
+38917	W	Escherichia coli B354				draft		
+51135	W	Escherichia coli B41				draft		
+15572	W	Escherichia coli B7A				draft		
+15578	W	Escherichia coli E110019			draft		
+38941	W	Escherichia coli E1167				draft		
+40269	W	Escherichia coli E128010			draft		
+38945	W	Escherichia coli E1520				draft		
+15577	W	Escherichia coli E22				draft		
+38949	W	Escherichia coli E482				draft		
+61479	W	Escherichia coli EC4100B			draft		
+40267	W	Escherichia coli EPECa14			draft		
+15576	W	Escherichia coli F11				draft		
+39915	W	Escherichia coli FVEC1302			draft		
+39917	W	Escherichia coli FVEC1412			draft		
+38971	W	Escherichia coli H120				draft		
+38981	W	Escherichia coli H252				draft		
+38985	W	Escherichia coli H263				draft		
+38991	W	Escherichia coli H299				draft		
+39013	W	Escherichia coli H489				draft		
+39021	W	Escherichia coli H591				draft		
+39033	W	Escherichia coli H736				draft		
+51111	W	Escherichia coli JB1-95				draft		
+40261	W	Escherichia coli LT-68				draft		
+39039	W	Escherichia coli M605				draft		
+39043	W	Escherichia coli M718				draft		
+39045	W	Escherichia coli M863				draft		
+40713	W	Escherichia coli MS 107-1			draft		
+47225	W	Escherichia coli MS 110-3			draft		
+47227	W	Escherichia coli MS 115-1			draft		
+47229	W	Escherichia coli MS 116-1			draft		
+47231	W	Escherichia coli MS 117-3			draft				
+40709	W	Escherichia coli MS 119-7			draft				
+40707	W	Escherichia coli MS 124-1			draft				
+40703	W	Escherichia coli MS 145-7			draft				
+47241	W	Escherichia coli MS 146-1			draft				
+47257	W	Escherichia coli MS 153-1			draft				
+47259	W	Escherichia coli MS 16-3			draft				
+47263	W	Escherichia coli MS 175-1			draft				
+47265	W	Escherichia coli MS 182-1			draft		
+47267	W	Escherichia coli MS 185-1			draft		
+47269	W	Escherichia coli MS 187-1			draft		
+47271	W	Escherichia coli MS 196-1			draft		
+47273	W	Escherichia coli MS 198-1			draft		
+47275	W	Escherichia coli MS 200-1			draft		
+47205	W	Escherichia coli MS 21-1			draft		
+47207	W	Escherichia coli MS 45-1			draft		
+47209	W	Escherichia coli MS 57-2			draft		
+47211	W	Escherichia coli MS 60-1			draft		
+47213	W	Escherichia coli MS 69-1			draft		
+47217	W	Escherichia coli MS 78-1			draft		
+40701	W	Escherichia coli MS 79-10			draft		
+47219	W	Escherichia coli MS 84-1			draft		
+40699	W	Escherichia coli MS 85-1			draft		
+47121	W	Escherichia coli NC101				draft		
+60059	W	Escherichia coli O157:H- str. 493-89		draft		
+60061	W	Escherichia coli O157:H- str. H 2687		draft		
+61463	W	Escherichia coli O157:H7 str. 1044		draft		
+61473	W	Escherichia coli O157:H7 str. 1125		draft		
+61465	W	Escherichia coli O157:H7 str. EC1212		draft		
+42809	W	Escherichia coli O157:H7 str. EC4009		draft		
+27747	W	Escherichia coli O157:H7 str. EC4024		draft		
+27737	W	Escherichia coli O157:H7 str. EC4042		draft		
+27733	W	Escherichia coli O157:H7 str. EC4045		draft		
+27745	W	Escherichia coli O157:H7 str. EC4076		draft		
+42813	W	Escherichia coli O157:H7 str. EC4084		draft		
+27743	W	Escherichia coli O157:H7 str. EC4113		draft		
+42815	W	Escherichia coli O157:H7 str. EC4127		draft		
+42817	W	Escherichia coli O157:H7 str. EC4191		draft		
+42811	W	Escherichia coli O157:H7 str. EC4192		draft		
+27741	W	Escherichia coli O157:H7 str. EC4196		draft		
+42819	W	Escherichia coli O157:H7 str. EC4205		draft		
+27735	W	Escherichia coli O157:H7 str. EC4206		draft		
+27749	W	Escherichia coli O157:H7 str. EC4401		draft		
+27751	W	Escherichia coli O157:H7 str. EC4486		draft		
+27753	W	Escherichia coli O157:H7 str. EC4501		draft		
+27755	W	Escherichia coli O157:H7 str. EC508		draft		
+42821	W	Escherichia coli O157:H7 str. EC536		draft		
+27757	W	Escherichia coli O157:H7 str. EC869		draft		
+36543	W	Escherichia coli O157:H7 str. FRIK2000		draft		
+32275	W	Escherichia coli O157:H7 str. FRIK966		draft		
+60057	W	Escherichia coli O157:H7 str. G5101		draft	
+60067	W	Escherichia coli O157:H7 str. LSU-61		draft
+28847	W	Escherichia coli O157:H7 str. TW14588		draft			
+60063	W	Escherichia coli O55:H7 str. 3256-97		draft		
+60065	W	Escherichia coli O55:H7 str. USDA 5905		draft		
+41499	W	Escherichia coli OP50	     	  		draft		
+40279	W	Escherichia coli RN587/1			draft		
+48269	W	Escherichia coli STEC_7v			draft	
+51747	W	Escherichia coli str. K-12 substr. MG1655star	draft		
+39063	W	Escherichia coli TA007	   	   		draft		
+39079	W	Escherichia coli TA143				draft		
+39085	W	Escherichia coli TA206				draft		
+39091	W	Escherichia coli TA271				draft	
+39093	W	Escherichia coli TA280				draft		
+51133	W	Escherichia coli TW07793			draft	
+39103	W	Escherichia coli TW10509			draft		
+59743	W	Escherichia coli TW10598			draft	
+59745	W	Escherichia coli TW10722			draft		
+59747	W	Escherichia coli TW10828			draft	
+59749	W	Escherichia coli TW11681			draft		
+59751	W	Escherichia coli TW14425			draft	
+42709	W	Escherichia coli W				draft		
+61477	W	Escherichia coli WV_060327			draft		
+60773	W	Shigella boydii ATCC 9905			draft	
+16194	W	Shigella dysenteriae 1012			draft		
+48263	W	Shigella dysenteriae 1617			draft
+60771	W	Shigella dysenteriae CDC 74-1112		draft		
+48255	W	Shigella flexneri 2a str. 2457T			draft	
+60775	W	Shigella flexneri CDC 796-83			draft		
+48265	W	Shigella sonnei 53G   				draft		
+
