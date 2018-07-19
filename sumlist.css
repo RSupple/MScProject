@@ -1,0 +1,42 @@
+/*Formatting for sumlist table
+*/					
+table {
+	background-color:#efeff5;
+        border: thick solid black;
+        border-collapse: collapse;
+	color: navy;
+}
+
+/*....table header
+*/
+th {
+	background-color: silver;
+}
+
+/*...makes borders on table
+*/
+
+td, th {
+	border: thin dotted gray;
+	padding: 5px;
+}
+
+/*....highlights current row of table
+*/
+tr:hover {
+	background-color: yellow;
+}
+
+/*....caption
+*/
+caption {
+	color: red;
+	font-weight: bold;
+	margin: 10px;
+}
+
+/*....makes alternate row different color
+*/
+tr:nth-child(even) {
+	background-color: white;
+}
