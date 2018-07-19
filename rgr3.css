@@ -1,0 +1,148 @@
+/*Formatting for index/home page and general default css styling file
+*/	
+
+/* Default formatting for body
+*/
+body {
+	margin: 0px;
+	background-color:white;
+	font-family: Verdana, Geneva, Arial, sans-serif;   
+	font-size: medium;
+	line-height: 1.5em;
+	color: navy;
+}	
+
+/* Formatting for header section
+*/
+header { 
+	background-color: white;
+	line-height: 1;
+	text-align: center;
+	padding: 1px;
+}
+
+header h1 {
+	border-bottom: 2px solid navy;
+	color: navy;
+	font-size: 175%;
+	font-weight: bold;
+}
+
+.red {
+	color: red;
+}
+
+.tiny {
+	font-size: 50%;
+}
+
+#tiny {
+	font-size: 50%;
+}
+
+header h2 {
+	color:red;
+	font-size: 100%;
+	font-style: italic;
+	font-weight: normal;
+}
+
+/* Formatting for forminfo section
+*/
+main {
+	background-color: #efeff5;
+	color: navy;
+	padding: 20px;
+	margin: 0px 445px 0px 0px;
+}	    
+
+/* Formatting for summary list 
+*/
+aside {
+	padding: 20px 20px 0px 0px;  
+	float: right;
+}	
+
+/* ...and frame within summary list 
+*/
+iframe {
+	width: 400px; 
+	height: 560px;
+}
+
+/* Formatting for footer section
+*/
+footer {
+	background-color: navy;
+	padding: 1px;
+	clear: right;
+        }	
+
+/* Formatting for links
+*/
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: navy;
+}
+
+a:hover {
+	background-color: navy;
+	color: white;
+}
+
+
+/*Formatting for navigation toolbar
+*/
+nav {
+	background-color: navy;
+	margin: 0px;
+}
+
+nav ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+}
+
+nav ul li {
+	display: inline;
+	padding: 5px 10px 5px 10px;
+}
+
+nav ul li a:link, nav ul li a:visited {
+	color: white;
+	border-bottom: none;
+	font-weight: bold;
+}
+
+
+nav ul li.selected {
+	background-color: blue;
+	padding: 7px 10px 8px 10px;
+}
+
+/*Formatting sequence search/data value section
+*/
+#or {
+	text-align: center;
+	margin: 5px;
+}
+
+/*styling for group photo image
+*/
+figure, figcaption {
+	display: block;
+	font-style: italic;
+	font-size: 90%;
+	color: gray;	
+}
+
+figure {
+	float: right;
+	border: 3px solid navy;
+	padding: 10px;
+}
+	
