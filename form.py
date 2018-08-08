@@ -55,7 +55,6 @@ html += '</header>\n'
 html += '<nav>\n'
 html += '<ul>\n'
 html +=	'<li><a href="http://student.cryst.bbk.ac.uk/~sr002/index.html">HOME</a></li>\n'
-html +=	'<li><a href="http://student.cryst.bbk.ac.uk/~sr002/help.html">HELP</a></li>\n'
 html +=	'</ul>\n'	
 html += '</nav>\n'
 
