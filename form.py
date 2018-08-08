@@ -82,7 +82,7 @@ with open('/d/mw8/u/sr002/qod/v1.0.2/bin/webquery_data.txt', 'w') as f:
     f.write(str(query2))
 
 #call RUDO script
-#call("/d/mw8/u/sr002/qod/v1.0.2/bin/web.sh", shell=True)
+call("/d/mw8/u/sr002/qod/v1.0.2/bin/web.sh", shell=True)
 
 
 html += '<footer>\n'
