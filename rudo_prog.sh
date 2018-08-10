@@ -1,7 +1,7 @@
 #!/bin/csh -f
 
-#program file for RUDO - version 21-06-18
-
+#program file for RUDO
+#calculates and graphically represents unique segments, retrieving their DNA sequence
 
 ######################################################################################################################################################################
 #retrieve sequences from Genbank
@@ -54,7 +54,7 @@ foreach ref ( "`cat webref_data.txt`" )
 
 	gunzip genomes/qodEcoli/$query.fsa.gz
 
-	if ( "$ref" != "$query" ) then
+	if ( "$ref" != "$query" ) then  #essential to enable unique segments to be discovered else none would be unique
 
 	    #awk/sed to take line that contains >, prints first field and sed removes > to obtain accession code from genome file for use in mummer command
 	    set a = ` awk '/>/{print  $1}' genomes/qodEcoli/$ref.fsa | sed 's/>//' `
@@ -87,7 +87,7 @@ foreach ref ( "`cat webref_data.txt`" )
     #runqod.sh for core genome
     eval "./qod --verbose --ref-seq genomes/qodEcoli/"$ref".fsa alignments/"$ref"_*.mat.gz >! core_qod/"$ref".txt" 
 
-    #create file of core covering intervals for use to retrieve core dna segments
+    #create file of core covering intervals for use to retrieve core dna segments - pls see detailed explanation in appendix
     awk ' /^P#/ {if ($6 > 0) {print $3, $5}}' core_qod/$ref.txt | sed 's/.://; s/^.//' | awk ' {print $1, ($2 + 1)}' | sed 's/ /\n/' | uniq -u >! core_cover/c$ref.txt
     paste - - < core_cover/c$ref.txt | awk '{print $1, ($2 - 1)}' >! core_cover/$ref.txt
     rm -f core_cover/c$ref.txt
