@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+#This code was heavily adapted from sumlist.py created by me for Bioproject 1.
+#A password is required to access the database.  Please contact me or the computer administrator if you are not aware of it.
+
 import mysql.connector
 
 cnx = mysql.connector.connect(user='sr002', database='sr002', host='localhost', password='')
