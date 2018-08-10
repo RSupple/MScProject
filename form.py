@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#This file was adapted from the file of the same name orginally created by me for Biocomputing 1.
 #file for index page on gene analysis submission
 import cgi;
 
