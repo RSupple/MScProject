@@ -87,7 +87,7 @@ foreach ref ( "`cat webref_data.txt`" )
     #runqod.sh for core genome
     eval "./qod --verbose --ref-seq genomes/qodEcoli/"$ref".fsa alignments/"$ref"_*.mat.gz >! core_qod/"$ref".txt" 
 
-    #create file of core covering intervals for use to retrieve core dna segments - pls see detailed explanation in appendix 3
+    #create file of core covering intervals for use to retrieve core dna segments - pls see detailed explanation in appendix 4
     awk ' /^P#/ {if ($6 > 0) {print $3, $5}}' core_qod/$ref.txt | sed 's/.://; s/^.//' | awk ' {print $1, ($2 + 1)}' | sed 's/ /\n/' | uniq -u >! core_cover/c$ref.txt
     paste - - < core_cover/c$ref.txt | awk '{print $1, ($2 - 1)}' >! core_cover/$ref.txt
     rm -f core_cover/c$ref.txt
