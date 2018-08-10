@@ -28,7 +28,7 @@ foreach bpid ( "`cat /d/mw8/u/sr002/gbmodule/WD_Ecoli_data.txt`" )
     endif
 end
 
-#no plasmid format for QOD
+#no plasmid format for QOD.  If plasmids are to be included then substitue line 33 for line 17 and omit lines 33-43.
 
 foreach bpid ( "`cat /d/mw8/u/sr002/gbmodule/WC_Ecoli_data.txt`" )
     if ( -e "/d/mw8/u/sr002/qod/v1.0.2/bin/genomes/qodEcoli/$bpid.fsa.gz" ) then #check file exists
