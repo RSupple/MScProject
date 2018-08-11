@@ -1,6 +1,6 @@
 #!/bin/csh -f
 
-#create file of core covering intervals for use to retrieve core dna segments - see appendix 4 for detailed explanation
+#create file of core covering intervals for use to retrieve core dna segments - see appendix 3 for detailed explanation
 set ref=225
 
 awk ' /^P#/ {if ($6 > 0) {print $3, $5}}' core_qod/$ref.txt | sed 's/.://; s/^.//' | awk ' {print $1, ($2 + 1)}' | sed 's/ /\n/' | uniq -u >! core_cover/c$ref.txt
