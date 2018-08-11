@@ -14,7 +14,7 @@ rm -f core_cover/c$ref.txt
 
 gunzip genomes/qodEcoli/*.fsa.gz
 
-#foreach ref ( "`cat O157H7.txt`" ) optional as the program takes a very long time to run.
+#foreach ref ( "`cat O157H7.txt`" ) N.B. takes a very long time to run.
     #Remove \n from file else it is counted as a character in while loop
     awk 'NR>1' genomes/qodEcoli/$ref.fsa | tr -d "\n" > genomes/strip/$ref.fsa
 
