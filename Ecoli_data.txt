@@ -1,5 +1,5 @@
 GPID	Contigs	Name						Status	
-		
+	
 30681	C	Escherichia coli 'BL21-Gold(DE3)pLysS AG'	complete			
 40647	C	Escherichia coli 042		      		complete	
 16235	C	Escherichia coli 536				complete	
