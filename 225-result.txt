@@ -1,3 +1,7 @@
+Result of unique segments from comparison of E. coli str. K-12 substr. MG1655 with set of 31 E. coli O157:H7 strains.
+Using Coordinates of GenBank.
+
+
 Escherichia coli str. K-12 substr. - Bioproject 225 unique DNA:
 
 
