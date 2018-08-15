@@ -1,187 +1,373 @@
-﻿30681,866768,Escherichia coli 'BL21-Gold(DE3)pLysS AG',Escherichia,Escherichia coli,,
-40647,216592,Escherichia coli 042,Escherichia,Escherichia coli,Escherichia coli O44:H18,
-16235,362663,Escherichia coli 536,Escherichia,Escherichia coli,,
-33413,585055,Escherichia coli 55989,Escherichia,Escherichia coli,,
-38725,655817,Escherichia coli ABU 83972,Escherichia,Escherichia coli,,
-16718,405955,Escherichia coli APEC O1,Escherichia,Escherichia coli,,
-18083,481805,Escherichia coli ATCC 8739,Escherichia,Escherichia coli,Escherichia coli C,
-18281,413997,Escherichia coli B str. REL606,Escherichia,Escherichia coli,Escherichia coli B,
-20713,469008,Escherichia coli BL21(DE3),Escherichia,Escherichia coli,,
-28965,469008,Escherichia coli BL21(DE3),Escherichia,Escherichia coli,,
-33775,595496,Escherichia coli BW2952,Escherichia,Escherichia coli,Escherichia coli K-12,
-313,199310,Escherichia coli CFT073,Escherichia,Escherichia coli,,
-30031,536056,Escherichia coli DH1,Escherichia,Escherichia coli,,
-13960,331111,Escherichia coli O139:H28 str.E24377A,Escherichia,Escherichia coli,Escherichia coli O139:H28,
-33409,585397,Escherichia coli ED1a,Escherichia,Escherichia coli,,
-42749,316401,Escherichia coli ETEC H10407,Escherichia,Escherichia coli,,
-13959,331112,Escherichia coli HS,Escherichia,Escherichia coli,,
-33373,585034,Escherichia coli IAI1,Escherichia,Escherichia coli,,
-33411,585057,Escherichia coli IAI39,Escherichia,Escherichia coli,,
-43693,714962,Escherichia coli IHE3034,Escherichia,Escherichia coli,,
-33875,595495,Escherichia coli KO11FL,Escherichia,Escherichia coli,,
-32511,585395,Escherichia coli O103:H2 str. 12009,Escherichia,Escherichia coli,Escherichia coli O103:H2,
-32513,585396,Escherichia coli O111:H- str. 11128,Escherichia,Escherichia coli,Escherichia coli O111:H-,
-32571,574521,Escherichia coli O127:H6 str. E2348/69,Escherichia,Escherichia coli,Escherichia coli O127:H6,
-27739,444450,Escherichia coli O157:H7 str. EC4115,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-259,155864,Escherichia coli O157:H7 str. EDL933,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-226,386585,Escherichia coli O157:H7 str. Sakai,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-30045,544404,Escherichia coli O157:H7 str. TW14359,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-32509,573235,Escherichia coli O26:H11 str. 11368,Escherichia,Escherichia coli,Escherichia coli O26:H11,
-42729,701177,Escherichia coli O55:H7 str. CB9615,Escherichia,Escherichia coli,Escherichia coli O55:H7,
-41221,685038,Escherichia coli O83:H1 str. NRG 857C,Escherichia,Escherichia coli,Escherichia coli O83:H1,
-33375,585035,Escherichia coli S88,Escherichia,Escherichia coli,,
-18057,409438,Escherichia coli SE11,Escherichia,Escherichia coli,,
-19053,431946,Escherichia coli SE15,Escherichia,Escherichia coli,,
-19469,439855,Escherichia coli SMS-3-5,Escherichia,Escherichia coli,,
-20079,316385,Escherichia coli str. K-12 substr. DH10B,Escherichia,Escherichia coli,Escherichia coli K-12,
-225,511145,Escherichia coli str. K-12 substr. MG1655,Escherichia,Escherichia coli,Escherichia coli K-12,
-16351,316407,Escherichia coli str. K-12 substr. W3110,Escherichia,Escherichia coli,,
-50883,869729,Escherichia coli UM146,Escherichia,Escherichia coli,,
-33415,585056,Escherichia coli UMN026,Escherichia,Escherichia coli,,
-16259,364106,Escherichia coli UTI89,Escherichia,Escherichia coli,,
-48011,566546,Escherichia coli W,Escherichia,Escherichia coli,,
-15637,344609,Shigella boydii CDC 3083-94,Shigella,Shigella boydii,,
-13146,300268,Shigella boydii Sb227,Shigella,Shigella boydii,,
-13145,300267,Shigella dysenteriae Sd197,Shigella,Shigella dysenteriae,,
-33639,591020,Shigella flexneri 2002017,Shigella,Shigella flexneri,,
-408,198215,Shigella flexneri 2a str. 2457T,Shigella,Shigella flexneri,Shigella flexneri 2a,
-310,198214,Shigella flexneri 2a str. 301,Shigella,Shigella flexneri,Shigella flexneri 2a,
-16375,373384,Shigella flexneri 5 str. 8401,Shigella,Shigella flexneri,Shigella flexneri 5,
-13151,300269,Shigella sonnei Ss046,Shigella,Shigella sonnei,,
-15630,344601,Escherichia coli B171,Escherichia,Escherichia coli,,
-51097,869675,Escherichia coli 1.2264,Escherichia,Escherichia coli,,
-51085,869669,Escherichia coli 1.2741,Escherichia,Escherichia coli,,
-16193,358709,Escherichia coli 101-1,Escherichia,Escherichia coli,,
-40289,670904,Escherichia coli OK1180,Escherichia,Escherichia coli,,
-40291,670905,Escherichia coli OK1357,Escherichia,Escherichia coli,,
-40257,670888,Escherichia coli 1827-70,Escherichia,Escherichia coli,,
-51123,869688,Escherichia coli 2.3916,Escherichia,Escherichia coli,,
-51127,869690,Escherichia coli 2.4168,Escherichia,Escherichia coli,,
-40275,670897,Escherichia coli 2362-75,Escherichia,Escherichia coli,,
-51129,869691,Escherichia coli 3.2303,Escherichia,Escherichia coli,,
-51131,869692,Escherichia coli 3003,Escherichia,Escherichia coli,,
-40265,670892,Escherichia coli 3431,Escherichia,Escherichia coli,,
-51109,869681,Escherichia coli 4.0522,Escherichia,Escherichia coli,,
-51121,869687,Escherichia coli 4.0967,Escherichia,Escherichia coli,,
-51115,869684,Escherichia coli 5.0959,Escherichia,Escherichia coli,,
-15639,344610,Escherichia coli 53638,Escherichia,Escherichia coli,,
-31467,525281,Escherichia coli 83972,Escherichia,Escherichia coli,,
-51117,869685,Escherichia coli 9.1649,Escherichia,Escherichia coli,,
-51137,869695,Escherichia coli 900105 (10e),Escherichia,Escherichia coli,,
-51095,869674,Escherichia coli 95.0941,Escherichia,Escherichia coli,,
-51087,869670,Escherichia coli 97.0246,Escherichia,Escherichia coli,,
-51091,869672,Escherichia coli 97.0259,Escherichia,Escherichia coli,,
-51099,869676,Escherichia coli 97.0264,Escherichia,Escherichia coli,,
-51103,869678,Escherichia coli 99.0741,Escherichia,Escherichia coli,,
-38905,550672,Escherichia coli B088,Escherichia,Escherichia coli,,
-38915,550676,Escherichia coli B185,Escherichia,Escherichia coli,,
-38917,550677,Escherichia coli B354,Escherichia,Escherichia coli,,
-51135,869694,Escherichia coli B41,Escherichia,Escherichia coli,,
-15572,340184,Escherichia coli B7A,Escherichia,Escherichia coli,,
-15578,340186,Escherichia coli E110019,Escherichia,Escherichia coli,,
-38941,656372,Escherichia coli E1167,Escherichia,Escherichia coli,,
-40269,670894,Escherichia coli E128010,Escherichia,Escherichia coli,,
-38945,656374,Escherichia coli E1520,Escherichia,Escherichia coli,,
-15577,340185,Escherichia coli E22,Escherichia,Escherichia coli,Escherichia coli O103:H2,
-38949,550687,Escherichia coli E482,Escherichia,Escherichia coli,,
-61479,945434,Escherichia coli EC4100B,Escherichia,Escherichia coli,,
-40267,670893,Escherichia coli EPECa14,Escherichia,Escherichia coli,,
-15576,340197,Escherichia coli F11,Escherichia,Escherichia coli,,
-39915,656379,Escherichia coli FVEC1302,Escherichia,Escherichia coli,,
-39917,656380,Escherichia coli FVEC1412,Escherichia,Escherichia coli,,
-38971,656383,Escherichia coli H120,Escherichia,Escherichia coli,,
-38981,656388,Escherichia coli H252,Escherichia,Escherichia coli,,
-38985,656390,Escherichia coli H263,Escherichia,Escherichia coli,,
-38991,656393,Escherichia coli H299,Escherichia,Escherichia coli,,
-39013,656404,Escherichia coli H489,Escherichia,Escherichia coli,,
-39021,656408,Escherichia coli H591,Escherichia,Escherichia coli,,
-39033,656414,Escherichia coli H736,Escherichia,Escherichia coli,,
-51111,869682,Escherichia coli JB1-95,Escherichia,Escherichia coli,,
-40261,670890,Escherichia coli LT-68,Escherichia,Escherichia coli,,
-39039,656417,Escherichia coli M605,Escherichia,Escherichia coli,,
-39043,656419,Escherichia coli M718,Escherichia,Escherichia coli,,
-39045,656420,Escherichia coli M863,Escherichia,Escherichia coli,,
-40713,679207,Escherichia coli MS 107-1,Escherichia,Escherichia coli,,
-47225,749536,Escherichia coli MS 110-3,Escherichia,Escherichia coli,,
-47227,749537,Escherichia coli MS 115-1,Escherichia,Escherichia coli,,
-47229,749538,Escherichia coli MS 116-1,Escherichia,Escherichia coli,,
-47231,749539,Escherichia coli MS 117-3,Escherichia,Escherichia coli,,
-40709,679206,Escherichia coli MS 119-7,Escherichia,Escherichia coli,,
-40707,679205,Escherichia coli MS 124-1,Escherichia,Escherichia coli,,
-40703,679204,Escherichia coli MS 145-7,Escherichia,Escherichia coli,,
-47241,749540,Escherichia coli MS 146-1,Escherichia,Escherichia coli,,
-47257,749541,Escherichia coli MS 153-1,Escherichia,Escherichia coli,,
-47259,749542,Escherichia coli MS 16-3,Escherichia,Escherichia coli,,
-47263,749544,Escherichia coli MS 175-1,Escherichia,Escherichia coli,,
-47265,749545,Escherichia coli MS 182-1,Escherichia,Escherichia coli,,
-47267,749546,Escherichia coli MS 185-1,Escherichia,Escherichia coli,,
-47269,749547,Escherichia coli MS 187-1,Escherichia,Escherichia coli,,
-47271,749548,Escherichia coli MS 196-1,Escherichia,Escherichia coli,,
-47273,749549,Escherichia coli MS 198-1,Escherichia,Escherichia coli,,
-47275,749550,Escherichia coli MS 200-1,Escherichia,Escherichia coli,,
-47205,749527,Escherichia coli MS 21-1,Escherichia,Escherichia coli,,
-47207,749528,Escherichia coli MS 45-1,Escherichia,Escherichia coli,,
-47209,749529,Escherichia coli MS 57-2,Escherichia,Escherichia coli,,
-47211,749530,Escherichia coli MS 60-1,Escherichia,Escherichia coli,,
-47213,749531,Escherichia coli MS 69-1,Escherichia,Escherichia coli,,
-47217,749532,Escherichia coli MS 78-1,Escherichia,Escherichia coli,,
-40701,796392,Escherichia coli MS 79-10,Escherichia,Escherichia coli,,
-47219,749533,Escherichia coli MS 84-1,Escherichia,Escherichia coli,,
-40699,679202,Escherichia coli MS 85-1,Escherichia,Escherichia coli,,
-47121,753642,Escherichia coli NC101,Escherichia,Escherichia coli,,
-60059,926027,Escherichia coli O157:H- str. 493-89,Escherichia,Escherichia coli,Escherichia coli O157:H-,
-60061,926028,Escherichia coli O157:H- str. H 2687,Escherichia,Escherichia coli,Escherichia coli O157:H-,
-61463,997824,Escherichia coli O157:H7 str.1044,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-61473,997825,Escherichia coli O157:H7 str. 1125,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-61465,941435,Escherichia coli O157:H7 str. EC1212,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42809,702430,Escherichia coli O157:H7 str. EC4009,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27747,444454,Escherichia coli O157:H7 str. EC4024,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27737,444449,Escherichia coli O157:H7 str. EC4042,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27733,444448,Escherichia coli O157:H7 str. EC4045,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27745,444453,Escherichia coli O157:H7 str. EC4076,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42813,702432,Escherichia coli O157:H7 str. EC4084,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27743,444452,Escherichia coli O157:H7 str. EC4113,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42815,702433,Escherichia coli O157:H7 str. EC4127,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42817,702434,Escherichia coli O157:H7 str. EC4191,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42811,702431,Escherichia coli O157:H7 str. EC4192,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27741,444451,Escherichia coli O157:H7 str. EC4196,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42819,702435,Escherichia coli O157:H7 str. EC4205,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27735,444447,Escherichia coli O157:H7 str. EC4206,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27749,478004,Escherichia coli O157:H7 str. EC4401,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27751,478005,Escherichia coli O157:H7 str. EC4486,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27753,478006,Escherichia coli O157:H7 str. EC4501,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27755,478007,Escherichia coli O157:H7 str. EC508,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-42821,702436,Escherichia coli O157:H7 str. EC536,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-27757,478008,Escherichia coli O157:H7 str. EC869,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-36543,637388,Escherichia coli O157:H7 str. FRIK2000,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-32275,570506,Escherichia coli O157:H7 str. FRIK966,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-60057,926026,Escherichia coli O157:H7 str. G5101,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-60067,926032,Escherichia coli O157:H7 str. LSU-61,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-28847,502346,Escherichia coli O157:H7 str. TW14588,Escherichia,Escherichia coli,Escherichia coli O157:H7,
-60063,926029,Escherichia coli O55:H7 str. 3256-97,Escherichia,Escherichia coli,Escherichia coli O55:H7,
-60065,926030,Escherichia coli O55:H7 str. USDA 5905,Escherichia,Escherichia coli,Escherichia coli O55:H7,
-41499,637912,Escherichia coli OP50,Escherichia,Escherichia coli,,
-40279,670899,Escherichia coli RN587/1,Escherichia,Escherichia coli,,
-48269,754082,Escherichia coli STEC_7v,Escherichia,Escherichia coli,,
-51747,879462,Escherichia coli str. K-12 substr. MG1655star,Escherichia,Escherichia coli,Escherichia coli K-12,Escherichia coli str. K-12 substr. MG1655star
-39063,656429,Escherichia coli TA007,Escherichia,Escherichia coli,,
-39079,656437,Escherichia coli TA143,Escherichia,Escherichia coli,,
-39085,656440,Escherichia coli TA206,Escherichia,Escherichia coli,,
-39091,656443,Escherichia coli TA271,Escherichia,Escherichia coli,,
-39093,656444,Escherichia coli TA280,Escherichia,Escherichia coli,,
-51133,869693,Escherichia coli TW07793,Escherichia,Escherichia coli,,
-39103,656449,Escherichia coli TW10509,Escherichia,Escherichia coli,,
-59743,913091,Escherichia coli TW10598,Escherichia,Escherichia coli,,
-59745,913090,Escherichia coli TW10722,Escherichia,Escherichia coli,,
-59747,913089,Escherichia coli TW10828,Escherichia,Escherichia coli,,
-59749,913088,Escherichia coli TW11681,Escherichia,Escherichia coli,,
-59751,913087,Escherichia coli TW14425,Escherichia,Escherichia coli,,
-42709,566546,Escherichia coli W,Escherichia,Escherichia coli,,
-61477,945433,Escherichia WV_060327,Escherichia,Escherichia coli,,
-60773,932676,Shigella boydii ATCC 9905,Shigella,Shigella sp. SF-2015,,
-16194,358708,Shigella dysenteriae 1012,Shigella,Shigella sp. SF-2015,,
-48263,754093,Shigella dysenteriae 1617,Shigella,Shigella dysenteriae,,
-60771,941429,Shigella dysenteriae CDC 74-1112,Shigella,Shigella dysenteriae,,
-48255,198215,Shigella flexneri 2a str. 2457T,Shigella,Shigella flexneri,Shigella flexneri 2a,
-60775,945360,Shigella flexneri CDC 796-83,Shigella,Shigella flexneri,,
+﻿30681,866768,Escherichia coli 'BL21-Gold(DE3)pLysS AG',Escherichia,Escherichia coli,,
+
+40647,216592,Escherichia coli 042,Escherichia,Escherichia coli,Escherichia coli O44:H18,
+
+16235,362663,Escherichia coli 536,Escherichia,Escherichia coli,,
+
+33413,585055,Escherichia coli 55989,Escherichia,Escherichia coli,,
+
+38725,655817,Escherichia coli ABU 83972,Escherichia,Escherichia coli,,
+
+16718,405955,Escherichia coli APEC O1,Escherichia,Escherichia coli,,
+
+18083,481805,Escherichia coli ATCC 8739,Escherichia,Escherichia coli,Escherichia coli C,
+
+18281,413997,Escherichia coli B str. REL606,Escherichia,Escherichia coli,Escherichia coli B,
+
+20713,469008,Escherichia coli BL21(DE3),Escherichia,Escherichia coli,,
+
+28965,469008,Escherichia coli BL21(DE3),Escherichia,Escherichia coli,,
+
+33775,595496,Escherichia coli BW2952,Escherichia,Escherichia coli,Escherichia coli K-12,
+
+313,199310,Escherichia coli CFT073,Escherichia,Escherichia coli,,
+
+30031,536056,Escherichia coli DH1,Escherichia,Escherichia coli,,
+
+13960,331111,Escherichia coli O139:H28 str.E24377A,Escherichia,Escherichia coli,Escherichia coli O139:H28,
+
+33409,585397,Escherichia coli ED1a,Escherichia,Escherichia coli,,
+
+42749,316401,Escherichia coli ETEC H10407,Escherichia,Escherichia coli,,
+
+13959,331112,Escherichia coli HS,Escherichia,Escherichia coli,,
+
+33373,585034,Escherichia coli IAI1,Escherichia,Escherichia coli,,
+
+33411,585057,Escherichia coli IAI39,Escherichia,Escherichia coli,,
+
+43693,714962,Escherichia coli IHE3034,Escherichia,Escherichia coli,,
+
+33875,595495,Escherichia coli KO11FL,Escherichia,Escherichia coli,,
+
+32511,585395,Escherichia coli O103:H2 str. 12009,Escherichia,Escherichia coli,Escherichia coli O103:H2,
+
+32513,585396,Escherichia coli O111:H- str. 11128,Escherichia,Escherichia coli,Escherichia coli O111:H-,
+
+32571,574521,Escherichia coli O127:H6 str. E2348/69,Escherichia,Escherichia coli,Escherichia coli O127:H6,
+
+27739,444450,Escherichia coli O157:H7 str. EC4115,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+259,155864,Escherichia coli O157:H7 str. EDL933,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+226,386585,Escherichia coli O157:H7 str. Sakai,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+30045,544404,Escherichia coli O157:H7 str. TW14359,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+32509,573235,Escherichia coli O26:H11 str. 11368,Escherichia,Escherichia coli,Escherichia coli O26:H11,
+
+42729,701177,Escherichia coli O55:H7 str. CB9615,Escherichia,Escherichia coli,Escherichia coli O55:H7,
+
+41221,685038,Escherichia coli O83:H1 str. NRG 857C,Escherichia,Escherichia coli,Escherichia coli O83:H1,
+
+33375,585035,Escherichia coli S88,Escherichia,Escherichia coli,,
+
+18057,409438,Escherichia coli SE11,Escherichia,Escherichia coli,,
+
+19053,431946,Escherichia coli SE15,Escherichia,Escherichia coli,,
+
+19469,439855,Escherichia coli SMS-3-5,Escherichia,Escherichia coli,,
+
+20079,316385,Escherichia coli str. K-12 substr. DH10B,Escherichia,Escherichia coli,Escherichia coli K-12,
+
+225,511145,Escherichia coli str. K-12 substr. MG1655,Escherichia,Escherichia coli,Escherichia coli K-12,
+
+16351,316407,Escherichia coli str. K-12 substr. W3110,Escherichia,Escherichia coli,,
+
+50883,869729,Escherichia coli UM146,Escherichia,Escherichia coli,,
+
+33415,585056,Escherichia coli UMN026,Escherichia,Escherichia coli,,
+
+16259,364106,Escherichia coli UTI89,Escherichia,Escherichia coli,,
+
+48011,566546,Escherichia coli W,Escherichia,Escherichia coli,,
+
+15637,344609,Shigella boydii CDC 3083-94,Shigella,Shigella boydii,,
+
+13146,300268,Shigella boydii Sb227,Shigella,Shigella boydii,,
+
+13145,300267,Shigella dysenteriae Sd197,Shigella,Shigella dysenteriae,,
+
+33639,591020,Shigella flexneri 2002017,Shigella,Shigella flexneri,,
+
+408,198215,Shigella flexneri 2a str. 2457T,Shigella,Shigella flexneri,Shigella flexneri 2a,
+
+310,198214,Shigella flexneri 2a str. 301,Shigella,Shigella flexneri,Shigella flexneri 2a,
+
+16375,373384,Shigella flexneri 5 str. 8401,Shigella,Shigella flexneri,Shigella flexneri 5,
+
+13151,300269,Shigella sonnei Ss046,Shigella,Shigella sonnei,,
+
+15630,344601,Escherichia coli B171,Escherichia,Escherichia coli,,
+
+51097,869675,Escherichia coli 1.2264,Escherichia,Escherichia coli,,
+
+51085,869669,Escherichia coli 1.2741,Escherichia,Escherichia coli,,
+
+16193,358709,Escherichia coli 101-1,Escherichia,Escherichia coli,,
+
+40289,670904,Escherichia coli OK1180,Escherichia,Escherichia coli,,
+
+40291,670905,Escherichia coli OK1357,Escherichia,Escherichia coli,,
+
+40257,670888,Escherichia coli 1827-70,Escherichia,Escherichia coli,,
+
+51123,869688,Escherichia coli 2.3916,Escherichia,Escherichia coli,,
+
+51127,869690,Escherichia coli 2.4168,Escherichia,Escherichia coli,,
+
+40275,670897,Escherichia coli 2362-75,Escherichia,Escherichia coli,,
+
+51129,869691,Escherichia coli 3.2303,Escherichia,Escherichia coli,,
+
+51131,869692,Escherichia coli 3003,Escherichia,Escherichia coli,,
+
+40265,670892,Escherichia coli 3431,Escherichia,Escherichia coli,,
+
+51109,869681,Escherichia coli 4.0522,Escherichia,Escherichia coli,,
+
+51121,869687,Escherichia coli 4.0967,Escherichia,Escherichia coli,,
+
+51115,869684,Escherichia coli 5.0959,Escherichia,Escherichia coli,,
+
+15639,344610,Escherichia coli 53638,Escherichia,Escherichia coli,,
+
+31467,525281,Escherichia coli 83972,Escherichia,Escherichia coli,,
+
+51117,869685,Escherichia coli 9.1649,Escherichia,Escherichia coli,,
+
+51137,869695,Escherichia coli 900105 (10e),Escherichia,Escherichia coli,,
+
+51095,869674,Escherichia coli 95.0941,Escherichia,Escherichia coli,,
+
+51087,869670,Escherichia coli 97.0246,Escherichia,Escherichia coli,,
+
+51091,869672,Escherichia coli 97.0259,Escherichia,Escherichia coli,,
+
+51099,869676,Escherichia coli 97.0264,Escherichia,Escherichia coli,,
+
+51103,869678,Escherichia coli 99.0741,Escherichia,Escherichia coli,,
+
+38905,550672,Escherichia coli B088,Escherichia,Escherichia coli,,
+
+38915,550676,Escherichia coli B185,Escherichia,Escherichia coli,,
+
+38917,550677,Escherichia coli B354,Escherichia,Escherichia coli,,
+
+51135,869694,Escherichia coli B41,Escherichia,Escherichia coli,,
+
+15572,340184,Escherichia coli B7A,Escherichia,Escherichia coli,,
+
+15578,340186,Escherichia coli E110019,Escherichia,Escherichia coli,,
+
+38941,656372,Escherichia coli E1167,Escherichia,Escherichia coli,,
+
+40269,670894,Escherichia coli E128010,Escherichia,Escherichia coli,,
+
+38945,656374,Escherichia coli E1520,Escherichia,Escherichia coli,,
+
+15577,340185,Escherichia coli E22,Escherichia,Escherichia coli,Escherichia coli O103:H2,
+
+38949,550687,Escherichia coli E482,Escherichia,Escherichia coli,,
+
+61479,945434,Escherichia coli EC4100B,Escherichia,Escherichia coli,,
+
+40267,670893,Escherichia coli EPECa14,Escherichia,Escherichia coli,,
+
+15576,340197,Escherichia coli F11,Escherichia,Escherichia coli,,
+
+39915,656379,Escherichia coli FVEC1302,Escherichia,Escherichia coli,,
+
+39917,656380,Escherichia coli FVEC1412,Escherichia,Escherichia coli,,
+
+38971,656383,Escherichia coli H120,Escherichia,Escherichia coli,,
+
+38981,656388,Escherichia coli H252,Escherichia,Escherichia coli,,
+
+38985,656390,Escherichia coli H263,Escherichia,Escherichia coli,,
+
+38991,656393,Escherichia coli H299,Escherichia,Escherichia coli,,
+
+39013,656404,Escherichia coli H489,Escherichia,Escherichia coli,,
+
+39021,656408,Escherichia coli H591,Escherichia,Escherichia coli,,
+
+39033,656414,Escherichia coli H736,Escherichia,Escherichia coli,,
+
+51111,869682,Escherichia coli JB1-95,Escherichia,Escherichia coli,,
+
+40261,670890,Escherichia coli LT-68,Escherichia,Escherichia coli,,
+
+39039,656417,Escherichia coli M605,Escherichia,Escherichia coli,,
+
+39043,656419,Escherichia coli M718,Escherichia,Escherichia coli,,
+
+39045,656420,Escherichia coli M863,Escherichia,Escherichia coli,,
+
+40713,679207,Escherichia coli MS 107-1,Escherichia,Escherichia coli,,
+
+47225,749536,Escherichia coli MS 110-3,Escherichia,Escherichia coli,,
+
+47227,749537,Escherichia coli MS 115-1,Escherichia,Escherichia coli,,
+
+47229,749538,Escherichia coli MS 116-1,Escherichia,Escherichia coli,,
+
+47231,749539,Escherichia coli MS 117-3,Escherichia,Escherichia coli,,
+
+40709,679206,Escherichia coli MS 119-7,Escherichia,Escherichia coli,,
+
+40707,679205,Escherichia coli MS 124-1,Escherichia,Escherichia coli,,
+
+40703,679204,Escherichia coli MS 145-7,Escherichia,Escherichia coli,,
+
+47241,749540,Escherichia coli MS 146-1,Escherichia,Escherichia coli,,
+
+47257,749541,Escherichia coli MS 153-1,Escherichia,Escherichia coli,,
+
+47259,749542,Escherichia coli MS 16-3,Escherichia,Escherichia coli,,
+
+47263,749544,Escherichia coli MS 175-1,Escherichia,Escherichia coli,,
+
+47265,749545,Escherichia coli MS 182-1,Escherichia,Escherichia coli,,
+
+47267,749546,Escherichia coli MS 185-1,Escherichia,Escherichia coli,,
+
+47269,749547,Escherichia coli MS 187-1,Escherichia,Escherichia coli,,
+
+47271,749548,Escherichia coli MS 196-1,Escherichia,Escherichia coli,,
+
+47273,749549,Escherichia coli MS 198-1,Escherichia,Escherichia coli,,
+
+47275,749550,Escherichia coli MS 200-1,Escherichia,Escherichia coli,,
+
+47205,749527,Escherichia coli MS 21-1,Escherichia,Escherichia coli,,
+
+47207,749528,Escherichia coli MS 45-1,Escherichia,Escherichia coli,,
+
+47209,749529,Escherichia coli MS 57-2,Escherichia,Escherichia coli,,
+
+47211,749530,Escherichia coli MS 60-1,Escherichia,Escherichia coli,,
+
+47213,749531,Escherichia coli MS 69-1,Escherichia,Escherichia coli,,
+
+47217,749532,Escherichia coli MS 78-1,Escherichia,Escherichia coli,,
+
+40701,796392,Escherichia coli MS 79-10,Escherichia,Escherichia coli,,
+
+47219,749533,Escherichia coli MS 84-1,Escherichia,Escherichia coli,,
+
+40699,679202,Escherichia coli MS 85-1,Escherichia,Escherichia coli,,
+
+47121,753642,Escherichia coli NC101,Escherichia,Escherichia coli,,
+
+60059,926027,Escherichia coli O157:H- str. 493-89,Escherichia,Escherichia coli,Escherichia coli O157:H-,
+
+60061,926028,Escherichia coli O157:H- str. H 2687,Escherichia,Escherichia coli,Escherichia coli O157:H-,
+
+61463,997824,Escherichia coli O157:H7 str.1044,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+61473,997825,Escherichia coli O157:H7 str. 1125,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+61465,941435,Escherichia coli O157:H7 str. EC1212,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42809,702430,Escherichia coli O157:H7 str. EC4009,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27747,444454,Escherichia coli O157:H7 str. EC4024,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27737,444449,Escherichia coli O157:H7 str. EC4042,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27733,444448,Escherichia coli O157:H7 str. EC4045,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27745,444453,Escherichia coli O157:H7 str. EC4076,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42813,702432,Escherichia coli O157:H7 str. EC4084,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27743,444452,Escherichia coli O157:H7 str. EC4113,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42815,702433,Escherichia coli O157:H7 str. EC4127,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42817,702434,Escherichia coli O157:H7 str. EC4191,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42811,702431,Escherichia coli O157:H7 str. EC4192,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27741,444451,Escherichia coli O157:H7 str. EC4196,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42819,702435,Escherichia coli O157:H7 str. EC4205,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27735,444447,Escherichia coli O157:H7 str. EC4206,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27749,478004,Escherichia coli O157:H7 str. EC4401,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27751,478005,Escherichia coli O157:H7 str. EC4486,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27753,478006,Escherichia coli O157:H7 str. EC4501,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27755,478007,Escherichia coli O157:H7 str. EC508,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+42821,702436,Escherichia coli O157:H7 str. EC536,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+27757,478008,Escherichia coli O157:H7 str. EC869,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+36543,637388,Escherichia coli O157:H7 str. FRIK2000,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+32275,570506,Escherichia coli O157:H7 str. FRIK966,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+60057,926026,Escherichia coli O157:H7 str. G5101,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+60067,926032,Escherichia coli O157:H7 str. LSU-61,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+28847,502346,Escherichia coli O157:H7 str. TW14588,Escherichia,Escherichia coli,Escherichia coli O157:H7,
+
+60063,926029,Escherichia coli O55:H7 str. 3256-97,Escherichia,Escherichia coli,Escherichia coli O55:H7,
+
+60065,926030,Escherichia coli O55:H7 str. USDA 5905,Escherichia,Escherichia coli,Escherichia coli O55:H7,
+
+41499,637912,Escherichia coli OP50,Escherichia,Escherichia coli,,
+
+40279,670899,Escherichia coli RN587/1,Escherichia,Escherichia coli,,
+
+48269,754082,Escherichia coli STEC_7v,Escherichia,Escherichia coli,,
+
+51747,879462,Escherichia coli str. K-12 substr. MG1655star,Escherichia,Escherichia coli,Escherichia coli K-12,Escherichia coli str. K-12 substr. MG1655star
+
+39063,656429,Escherichia coli TA007,Escherichia,Escherichia coli,,
+
+39079,656437,Escherichia coli TA143,Escherichia,Escherichia coli,,
+
+39085,656440,Escherichia coli TA206,Escherichia,Escherichia coli,,
+
+39091,656443,Escherichia coli TA271,Escherichia,Escherichia coli,,
+
+39093,656444,Escherichia coli TA280,Escherichia,Escherichia coli,,
+
+51133,869693,Escherichia coli TW07793,Escherichia,Escherichia coli,,
+
+39103,656449,Escherichia coli TW10509,Escherichia,Escherichia coli,,
+
+59743,913091,Escherichia coli TW10598,Escherichia,Escherichia coli,,
+
+59745,913090,Escherichia coli TW10722,Escherichia,Escherichia coli,,
+
+59747,913089,Escherichia coli TW10828,Escherichia,Escherichia coli,,
+
+59749,913088,Escherichia coli TW11681,Escherichia,Escherichia coli,,
+
+59751,913087,Escherichia coli TW14425,Escherichia,Escherichia coli,,
+
+42709,566546,Escherichia coli W,Escherichia,Escherichia coli,,
+
+61477,945433,Escherichia WV_060327,Escherichia,Escherichia coli,,
+
+60773,932676,Shigella boydii ATCC 9905,Shigella,Shigella sp. SF-2015,,
+
+16194,358708,Shigella dysenteriae 1012,Shigella,Shigella sp. SF-2015,,
+
+48263,754093,Shigella dysenteriae 1617,Shigella,Shigella dysenteriae,,
+
+60771,941429,Shigella dysenteriae CDC 74-1112,Shigella,Shigella dysenteriae,,
+
+48255,198215,Shigella flexneri 2a str. 2457T,Shigella,Shigella flexneri,Shigella flexneri 2a,
+
+60775,945360,Shigella flexneri CDC 796-83,Shigella,Shigella flexneri,,
+
 48265,216599,Shigella sonnei 53G,Shigella,Shigella sonnei,,
