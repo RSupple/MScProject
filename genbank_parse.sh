@@ -17,14 +17,14 @@ set cds_end=$2
     foreach row ( "`cat /d/mw8/u/sr002/qod/v1.0.2/bin/gen_spec_cover/$ref.txt`" ) 
 
     set argv = ( $row )
-    set gsc_start=$1 #unique segment start
-    set gsc_end=$2   #unique segment end
+    set usc_start=$1 #unique segment coord start
+    set usc_end=$2   #unique segment coord end
 
-        if ( $cds_start >= $gsc_start && $cds_end <= $gsc_end ) then   #cds segments nested within unique segments
+        if ( $cds_start >= $usc_start && $cds_end <= $usc_end ) then   #cds segments nested within unique segments
 
 	#- this retrieves the coords of the CDS intervals and using this...
 
-        echo $gsc_start $cds_start $cds_end $gsc_end >>! genbank_cds_$ref.txt 
+        echo $usc_start $cds_start $cds_end $usc_end >>! genbank_cds_$ref.txt 
 
         endif
 
